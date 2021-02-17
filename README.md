@@ -1,6 +1,8 @@
 # Getting Started with Create React App (nomadcoders)      
 
-주소 : https://chasonghui.github.io/react_movie_app/index.html#/   
+주소 : https://chasonghui.github.io/react_movie_app/index.html#/      
+
+강의내용 정리 : https://www.notion.so/chasonghui/React-9a991dad12df4c1496d0f9146bbdef29     
 
   [미리보기]      
   1. 메인 화면     
